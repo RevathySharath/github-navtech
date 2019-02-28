@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+/* html{
+    height:100vh;
+    background-color: #f5f8fb !important;
+} */
+body,html{
+    height:100%;
+    background-color: #f5f8fb !important;
+    overflow: hidden;
+}

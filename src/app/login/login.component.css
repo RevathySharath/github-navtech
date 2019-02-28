@@ -1,0 +1,14 @@
+
+.error{
+    color:red;
+} 
+body,html{
+    height:100%;
+  }
+  .card{
+      width:28rem;
+  }
+  .card-header{
+      background:none;
+      border-bottom: 0;
+  }
